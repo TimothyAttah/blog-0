@@ -20,6 +20,13 @@ function App() {
         </a>
       </header>
       <h1>This is a header</h1>
+
+      <ul>
+        <li>Create your website</li>
+        <li>Make a name</li>
+        <li>Study physics and chemistry</li>
+        <li>Go to work</li>
+      </ul>
     </div>
   );
 }
