@@ -26,6 +26,8 @@ function App() {
         <li>Make a name</li>
         <li>Study physics and chemistry</li>
         <li>Go to work</li>
+        <li>Cook some food</li>
+        <li>Go to confession</li>
       </ul>
     </div>
   );
