@@ -20,6 +20,8 @@ function App() {
         </a>
       </header>
       <h1>This is a header</h1>
+      <p>The body goes here...</p>
+      <h3>Goodluck is back to Readems. Thank God</h3>
 
       <ul>
         <li>Create your website</li>
