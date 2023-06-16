@@ -16,11 +16,12 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Learn React
+          Learn React. It is fucking good.
         </a>
       </header>
       <h1>This is a header</h1>
       <p>The body goes here...</p>
+      <p>Another body goes here... Am loving this.</p>
       <h3>Goodluck is back to Readems. Thank God</h3>
 
       <ul>
@@ -30,6 +31,7 @@ function App() {
         <li>Go to work</li>
         <li>Cook some food</li>
         <li>Go to confession</li>
+        <li>Start a business of your own.</li>
       </ul>
     </div>
   );
