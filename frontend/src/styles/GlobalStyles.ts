@@ -11,6 +11,7 @@ export const GlobalStyle = createGlobalStyle`
     max-width: 1500px;
     width: 100%;
     margin: 0 auto;
+    background-color: white;
   }
 
   html {
