@@ -31,6 +31,7 @@ export const GlobalStyle = createGlobalStyle`
   a {
     color: #000;
     text-decoration: none;
+    background-color: aliceblue;
   }
 
   ul, li {
