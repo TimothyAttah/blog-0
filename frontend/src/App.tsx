@@ -33,6 +33,7 @@ function App() {
         <li>Go to confession</li>
         <li>Start a business of your own.</li>
         <li>Attend today's meeting</li>
+        <li>Get some rest too</li>
       </ul>
     </div>
   );
