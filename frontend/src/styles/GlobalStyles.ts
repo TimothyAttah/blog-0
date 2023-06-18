@@ -12,7 +12,7 @@ export const GlobalStyle = createGlobalStyle`
     width: 100%;
     margin: 0 auto;
     background-color: aliceblue;
-    color: white;
+    color: black;
   }
 
   html {
