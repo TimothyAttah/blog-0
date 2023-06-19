@@ -25,7 +25,7 @@ function App() {
       <h3>Goodluck is back to Readems. Thank God</h3>
       <div>
         <p>I hope I will meet Goodluck today sha</p>
-        <p>I really hope I can attend today's meeting. On God</p>
+        <p>Thank God for yesterday's meeting</p>
       </div>
 
       <ul>
