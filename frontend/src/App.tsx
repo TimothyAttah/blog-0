@@ -38,6 +38,7 @@ function App() {
         <li>Start a business of your own.</li>
         <li>Get some rest too</li>
         <li>Thank God I attended yesterday's meeting</li>
+        <li>I must finish the waitlist. God help me!!!!</li>
       </ul>
     </div>
   );
