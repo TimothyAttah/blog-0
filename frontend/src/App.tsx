@@ -37,6 +37,7 @@ function App() {
         <li>Go to confession</li>
         <li>Start a business of your own.</li>
         <li>Get some rest too</li>
+        <li>Thank God I attended yesterday's meeting</li>
       </ul>
     </div>
   );
