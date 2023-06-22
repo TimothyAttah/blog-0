@@ -40,7 +40,6 @@ function App() {
         <li>Thank God I attended yesterday's meeting</li>
         <li>I must finish the waitlist. God help me!!!!</li>
       </ul>
-      <p>this is my yard now</p>
     </div>
   );
 }
