@@ -30,6 +30,7 @@ function App() {
 
       <h2>Thank you Lord for your mercy. Thank you Jesus...</h2>
       <p>I'm really grateful for your mercy oh Lord. </p>
+      <p>THANK YOU JESUS</p>
 
       <ul>
         <li>Create your website</li>
