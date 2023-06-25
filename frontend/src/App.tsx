@@ -28,6 +28,8 @@ function App() {
         <p>I don't think I can today's meeting</p>
       </div>
 
+      <h2>Thank you Lord for your mercy. Thank you Jesus...</h2>
+
       <ul>
         <li>Create your website</li>
         <li>Make a name</li>
