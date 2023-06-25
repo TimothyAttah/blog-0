@@ -43,6 +43,10 @@ function App() {
         <li>Thank God for today!!! Oh Lord.</li>
         <li>Can't wait to start this blog code</li>
         <li>Learn to code without copying anyone ever again</li>
+        <li>
+          God help me to code from memory without checking out people's tutorial
+          online.
+        </li>
       </ul>
     </div>
   );
