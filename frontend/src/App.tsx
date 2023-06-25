@@ -24,7 +24,6 @@ function App() {
       <p>Another body goes here... Am loving this.</p>
       <h3>Goodluck is back to Readems. Thank God</h3>
       <div>
-        <p>I hope I will meet Goodluck today sha</p>
         <p>Thank God for yesterday's meeting</p>
       </div>
 
