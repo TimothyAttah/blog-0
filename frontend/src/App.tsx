@@ -25,7 +25,6 @@ function App() {
       <h3>Goodluck is back to Readems. Thank God</h3>
       <div>
         <p>Thank God for yesterday's meeting</p>
-        <p>I don't think I can today's meeting</p>
       </div>
 
       <h2>Thank you Lord for your mercy. Thank you Jesus...</h2>
@@ -43,7 +42,7 @@ function App() {
         <li>I must finish the waitlist. God help me!!!!</li>
         <li>Thank God for yesterday</li>
         <li>Thank God for today!!! Oh Lord.</li>
-        <li>Can't wait to start this blog code</li>
+        <li>Can't wait to start this blog code...</li>
         <li>Learn to code without copying anyone ever again</li>
         <li>
           God help me to code from memory without checking out people's tutorial
