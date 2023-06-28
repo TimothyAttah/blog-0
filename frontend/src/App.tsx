@@ -21,7 +21,6 @@ function App() {
       </header>
       <h1>This is a header</h1>
       <p>The body goes here...</p>
-      <p>Another body goes here... Am loving this.</p>
       <h3>Goodluck is back to Readems. Thank God</h3>
       <div>
         <p>Thank God for yesterday's meeting</p>
