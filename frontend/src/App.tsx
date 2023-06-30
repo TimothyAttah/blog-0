@@ -49,6 +49,7 @@ function App() {
           God help me to code from memory without checking out people's tutorial
           online.
         </li>
+        <li>God help me with a clean mind.</li>
       </ul>
     </div>
   );
