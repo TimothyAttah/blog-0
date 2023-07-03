@@ -25,13 +25,15 @@ function App() {
       <div>
         <p>Thank God for yesterday's meeting</p>
         <p>Lord help to not be a failure to myself and my family. Amen.</p>
+        <p>This month I pray things clear up.</p>
       </div>
 
-      <h2>Thank you Lord for your mercy. Thank you Jesus...</h2>
-      <p>I'm really grateful for your mercy oh Lord. </p>
-      <p>THANK YOU JESUS</p>
-      <h3>Today is another day Oh Lord. Thank you Jesus for today.</h3>
-
+      <div>
+        <h2>Thank you Lord for your mercy. Thank you Jesus...</h2>
+        <p>I'm really grateful for your mercy oh Lord. </p>
+        <p>THANK YOU JESUS</p>
+        <h3>Today is another day Oh Lord. Thank you Jesus for today.</h3>
+      </div>
       <ul>
         <li>Create your website</li>
         <li>Make a name</li>
