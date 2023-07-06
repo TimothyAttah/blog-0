@@ -26,7 +26,7 @@ function App() {
         <p>Thank God for yesterday's meeting</p>
         <p>Lord help to not be a failure to myself and my family. Amen.</p>
         <p>This month I pray things clear up.</p>
-        <h1>God have your way. </h1>
+        <h1>God have your way. In my family... </h1>
         <p>
           Whatever I have lost this month and last month, I recover it all back
           in ten folds in Jesus Name Amen.
