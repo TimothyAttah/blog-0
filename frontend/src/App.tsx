@@ -27,8 +27,8 @@ function App() {
         <p>This month I pray things clear up.</p>
         <h1>God have your way. In my family... </h1>
         <p>
-          Whatever I have lost this month and last month, I recover it all back
-          in ten folds in Jesus Name Amen.
+          Whatever I have lost this month and last month, I recover them in
+          Jesus Name Amen.
         </p>
       </div>
 
