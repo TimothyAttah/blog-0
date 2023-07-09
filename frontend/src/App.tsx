@@ -43,7 +43,7 @@ function App() {
         <li>Make a name</li>
         <li>Study physics and chemistry</li>
         <li>Go to work</li>
-        <li>Go to confession</li>
+        <li>Go to confession. I haven't done that yet.</li>
         <li>Start a business of your own.</li>
         <li>Get some rest too.</li>
         <li>I must finish the waitlist. God help me!!!!</li>
