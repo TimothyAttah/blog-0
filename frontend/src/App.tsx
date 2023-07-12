@@ -41,7 +41,7 @@ function App() {
       </div>
       <ul>
         <li>Create your website</li>
-        <li>Make a name</li>
+        <li>Make a name for yourself and family too</li>
         <li>Study physics and chemistry</li>
         <li>Go to work</li>
         <li>Go to confession. I haven't done that yet.</li>
