@@ -19,7 +19,7 @@ function App() {
           Learn React. It is fucking good.
         </a>
       </header>
-      <h1>This is a header</h1>
+      <h1>This is a header... Its means a title</h1>
       <p>The body goes here...</p>
       <div>
         <p>Thank God for yesterday's meeting</p>
