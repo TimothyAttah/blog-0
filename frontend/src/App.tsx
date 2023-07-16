@@ -37,6 +37,7 @@ function App() {
         <p>I'm really grateful for your mercy oh Lord. </p>
         <p>THANK YOU JESUS</p>
         <h3>Today is another day Oh Lord. Thank you Jesus for today.</h3>
+        <p>Today is another meeting day.</p>
       </div>
       <ul>
         <li>Create your website</li>
