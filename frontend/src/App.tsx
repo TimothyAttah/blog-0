@@ -53,7 +53,7 @@ function App() {
         <li>Learn to code without copying anyone ever again</li>
         <li>
           God help me to code from memory without checking out people's tutorial
-          online
+          online. This is a prayer.
         </li>
         <li>God help me with a clean mind.</li>
         <li>The list keeps on adding up...</li>
