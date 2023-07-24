@@ -30,7 +30,6 @@ function App() {
           Whatever I have lost this month and last month, I recover them in
           Jesus Name Amen.
         </p>
-        <p>ATTAHMOST1</p>
       </div>
 
       <div>
