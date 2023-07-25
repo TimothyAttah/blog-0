@@ -57,7 +57,6 @@ function App() {
           online. This is a prayer.
         </li>
         <li>God help me with a clean mind.</li>
-        <li>The list keeps on adding up...</li>
       </ul>
     </div>
   );
