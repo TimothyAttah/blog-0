@@ -45,10 +45,8 @@ function App() {
         <li>Study physics and chemistry</li>
         <li>Go to work</li>
         <li>Go to confession. I haven't done that yet.</li>
-        <li>Start a business of your own.</li>
         <li>Get some rest too.</li>
         <li>I must finish the waitlist. God help me!!!!</li>
-        <li>Thank God for yesterday</li>
         <li>Thank God for today!!! Oh Lord.</li>
         <li>Can't wait to start this blog code...</li>
         <li>Learn to code without copying anyone ever again</li>
