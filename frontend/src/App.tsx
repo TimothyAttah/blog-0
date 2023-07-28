@@ -34,6 +34,7 @@ function App() {
 
       <div>
         <h1>It is time to get serious.</h1>
+        <h2>Please help me Oh Lord!!</h2>
       </div>
 
       <div>
