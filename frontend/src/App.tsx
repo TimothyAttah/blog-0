@@ -31,6 +31,10 @@ function App() {
           Whatever I have lost this month and last month, I recover them in
           Jesus Name Amen.
         </p>
+        <p>
+          So many things to do. Lord help me achieve them all. In Jesus name.
+          Amen
+        </p>
       </div>
 
       <div>
